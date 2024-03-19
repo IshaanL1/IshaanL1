@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @IshaanL1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Ishaan Lalani
+- 👀 I’m interested in Engineering
+- 🌱 I’m currently learning circuit programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ialalani@uh.edu
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Student at the University of Houston
 
 <!---
